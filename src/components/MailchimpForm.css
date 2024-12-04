@@ -1,0 +1,15 @@
+#mc_embed_signup .mc-field-group input {
+  background: transparent;
+}
+
+#mc_embed_signup .button {
+  background: rgb(245 182 118) !important;
+  color: #000 !important;
+  width: 100% !important;
+  height: 42px !important;
+  margin-top: 12px !important;
+}
+
+#mc_embed_signup .foot {
+    grid-template-columns: 4fr 0fr !important;
+}
