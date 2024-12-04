@@ -47,7 +47,8 @@ const App: React.FC = () => {
               alt="Colt"
               borderRadius="md"
               boxShadow="5px 3px 14px 0px #1c151099"
-            />
+              w="100%"
+              />
             <Text fontSize="21px" fontWeight={300} mt={2}>
               Colt
             </Text>
@@ -59,6 +60,7 @@ const App: React.FC = () => {
               alt="Bingo"
               borderRadius="md"
               boxShadow="5px 3px 14px 0px #1c151099"
+              w="100%"
             />
             <Text fontSize="21px" fontWeight={300} mt={2}>
               Bingo
